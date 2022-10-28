@@ -11,7 +11,7 @@ jobs:
         fail-fast: false
         matrix:
           files:
-            - "readme-template.md"
+            - "readme.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
@@ -27,7 +27,7 @@ jobs:
         fail-fast: false
         matrix:
           files:
-            - "readme-template.md"
+            - "readme.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
