@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome NetBox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/netbox-community/awesome-netbox/actions/workflows/lint.yaml/badge.svg)](https://github.com/netbox-community/awesome-netbox/actions/workflows/lint.yaml)
+# Awesome NetBox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/netbox-community/awesome-netbox/.github/workflows/lint.yaml/badge.svg)](https://github.com/netbox-community/awesome-netbox/.github/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -49,12 +49,14 @@ A curated list of awesome resources related to NetBox!
 
 ## Featured (new releases)
 
+<!--lint ignore double-link-->
 - [Zero to Hero Course](https://zerotohero.netbox.dev/) - A short course designed to take new NetBox users from ‘Zero to Hero’.
 
 ## Official Docs & Quickstarts
 
 - 📖 [NetBox Documentation](https://docs.netbox.dev/en/stable/) - Official NetBox Documentation.
 - 🔧 [NetBox Demo Instance](https://demo.netbox.dev/) - Demo instance of NetBox (restarted daily).
+<!--lint ignore double-link-->
 - 📖 [NetBox Plugin Tutorial](https://github.com/netbox-community/netbox-plugin-tutorial) - NetBox Plugin Development Tutorial.
 
 ## Plugins
@@ -138,7 +140,9 @@ A curated list of awesome resources related to NetBox!
 
 ### Educational
 
+<!--lint ignore double-link-->
 - [NetBox Plugin Tutorial](https://github.com/netbox-community/netbox-plugin-tutorial) - NetBox Plugin Development Tutorial.
+<!--lint ignore double-link-->
 - [Zero to Hero Course](https://zerotohero.netbox.dev/) - A short course designed to take new NetBox users from ‘Zero to Hero’.
 
 
