@@ -159,7 +159,3 @@ A curated list of awesome resources related to NetBox!
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-Thanks goes to all our contributors!
