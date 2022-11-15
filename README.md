@@ -151,6 +151,7 @@ A curated list of awesome resources related to NetBox!
 
 ### Videos
 
+- [Itential](https://www.youtube.com/watch?v=1DTlDF05LH4) - Integrating NetBox as a Source of Truth for Network Automation.
 - [Viatto NetBox](https://www.youtube.com/c/KeepingITSimple/search?query=netbox) - Full NetBox course videos.
 - [NS1 Labs](https://www.youtube.com/c/NS1Labs/search?query=netbox) - Community calls, Zero-to-Hero, NetBox feature video from the creator of NetBox.
 
