@@ -69,7 +69,9 @@ A curated list of awesome resources related to NetBox!
 - [amyasnikov/validity](https://github.com/amyasnikov/validity) - Plugin for writing configuration compliance checks.
 - [artyomovs/netbox-plugin-config-officer](https://github.com/artyomovs/netbox-plugin-config-officer) - A plugin for NetBox to work with running-configuration of Cisco devices.
 - [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing DNS data.
-- [DanSheps/netbox-secretstore](https://github.com/DanSheps/netbox-secretstore) - Continuation of The NetBox secrets app.
+- [DanSheps/netbox-config-backup](https://github.com/DanSheps/netbox-config-backup) - Plugin to backup configuration of devices
+- [DanSheps/netbox-lifecycle](https://github.com/DanSheps/netbox-lifecycle) - Plugin for managing Hardware EOS/EOL and Support Contracts
+- [DanSheps/netbox-routing](https://github.com/DanSheps/netbox-routing) - Plugin for managing routing (Static routing only currently)
 - [drygdryg/netbox-plugin-interface-sync](https://github.com/drygdryg/netbox-plugin-interface-sync) - Compare and synchronize interfaces between devices and device types.
 - [ffddorf/netbox-vault-secrets](https://github.com/ffddorf/netbox-vault-secrets) - Hashicorp Vault Plugin for Netbox.
 - [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Provide Prometheus compatible API Endpoint with data from Netbox.
