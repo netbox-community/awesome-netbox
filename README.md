@@ -85,6 +85,7 @@ A curated list of awesome resources related to NetBox!
 - [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices.
 - [OpenSource-THG/netbox-vrf-context](https://github.com/OpenSource-THG/netbox-vrf-context) - Plugin for modeling VRF Contexts.
 - [osism/netbox-plugin-osism](https://github.com/osism/netbox-plugin-osism) - Plugin for a better OSISM integration.
+- [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data (maintained fork of netbox-dns).
 - [PieterL75/netbox_ipcalculator](https://github.com/PieterL75/netbox_ipcalculator) - IP Calculator plugin for Netbox.
 - [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping.
 - [ryanmerolle/netbox-acls](https://github.com/ryanmerolle/netbox-acls) - Plugin for Access List management.
