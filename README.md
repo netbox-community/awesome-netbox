@@ -95,6 +95,7 @@ A curated list of awesome resources related to NetBox!
 
 ### Integrations
 - [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox.
+- [netreplica/nrx](https://github.com/netreplica/nrx?source=awesome-netbox) - Netreplica `nrx` topology and configuration exporter for network emulation labs: Containerlab, Cisco Modeling Labs
 - [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox.
 - [robertcsapo/ciscodnacnetbox](https://github.com/robertcsapo/ciscodnacnetbox) - Cisco DNA Center Integration with NetBox.
 - [wvandeun/nornir_netbox](https://github.com/wvandeun/nornir_netbox) - NetBox plugin for Nornir.
@@ -117,6 +118,7 @@ A curated list of awesome resources related to NetBox!
 - [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) - A scanner util for NetBox.
 - [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import) - The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository.
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions.
+- [netreplica/graphite](https://github.com/netreplica/graphite?source=awesome-netbox) - Standalone topology visualizer Netreplica `graphite`
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 
 ## Synchronization
