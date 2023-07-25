@@ -81,6 +81,7 @@ A curated list of awesome resources related to NetBox!
 - [k01ek/netbox-bgp](https://github.com/k01ek/netbox-bgp) - Plugin for BGP related objects documentation.
 - [k01ek/netbox-qrcode](https://github.com/k01ek/netbox-qrcode) - Plugin generating QR codes for objects: Rack, Device, Cable.
 - [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - Create topology views/maps from your devices in NetBox.
+- [miaow2/netbox-config-diff](https://github.com/miaow2/netbox-config-diff) - Plugin for rendering diff between the intended device configuration and actual.
 - [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get power distribution unit (PDU) Information.
 - [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices.
 - [OpenSource-THG/netbox-vrf-context](https://github.com/OpenSource-THG/netbox-vrf-context) - Plugin for modeling VRF Contexts.
