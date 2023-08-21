@@ -155,7 +155,6 @@ A curated list of awesome resources related to NetBox!
 
 ### Blogs
 
-- [FreeRADIUS Dynamic Clients from NetBox](https://blog.sys4.de/freeradius-clients-netbox-en.html) - How to configure FreeRADIUS to lookup clients in netbox.
 - [Integrating Okta SSO with NetBox](https://www.oasys.net/posts/okta-sso-with-netbox/) - Instructions for configuring NetBox and Okta for native SSO authentication.
 - [Netbox Active Directory/LDAP Integration](https://www.thierolf.org/blog/2021/netbox-active-directoryldap-integration/) - How to setup Netbox with Active Directory as backend for users and groups.
 - [NetBox NAPALM automation with bastion host](https://www.oasys.net/posts/netbox-napalm-automation-with-bastion-host/) - Configuring the NAPALM integration to use a SSH proxy.
