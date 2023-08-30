@@ -85,8 +85,8 @@ A curated list of awesome resources related to NetBox!
 - [miaow2/netbox-config-diff](https://github.com/miaow2/netbox-config-diff) - Plugin for rendering diff between the intended device configuration and actual.
 - [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get power distribution unit (PDU) Information.
 - [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices.
-- [netbox-metatype-importer](https://github.com/Onemind-Services-LLC/netbox-metatype-importer) - Easy import Device and Module types from GitHub repository.
-- [netbox-secrets](https://github.com/Onemind-Services-LLC/netbox-secrets) - A Secret store for NetBox.
+- [Onemind-Services-LLC/netbox-metatype-importer](https://github.com/Onemind-Services-LLC/netbox-metatype-importer) - Easy import Device and Module types from GitHub repository.
+- [Onemind-Services-LLC/netbox-secrets](https://github.com/Onemind-Services-LLC/netbox-secrets) - A Secret store for NetBox.
 - [OpenSource-THG/netbox-vrf-context](https://github.com/OpenSource-THG/netbox-vrf-context) - Plugin for modeling VRF Contexts.
 - [osism/netbox-plugin-osism](https://github.com/osism/netbox-plugin-osism) - Plugin for a better OSISM integration.
 - [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data (maintained fork of netbox-dns).
