@@ -68,7 +68,7 @@ A curated list of awesome resources related to NetBox!
 - [alsigna/netbox-software-manager](https://github.com/alsigna/netbox-software-manager) - Plugin to deal with Cisco IOS & XE software.
 - [amyasnikov/validity](https://github.com/amyasnikov/validity) - Plugin for writing configuration compliance checks.
 - [artyomovs/netbox-plugin-config-officer](https://github.com/artyomovs/netbox-plugin-config-officer) - A plugin for NetBox to work with running-configuration of Cisco devices.
-- [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns) - Plugin for managing DNS data.
+- [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data.
 - [DanSheps/netbox-config-backup](https://github.com/DanSheps/netbox-config-backup) - Plugin to backup configuration of devices.
 - [DanSheps/netbox-lifecycle](https://github.com/DanSheps/netbox-lifecycle) - Plugin for managing Hardware EOS/EOL and Support Contracts.
 - [DanSheps/netbox-routing](https://github.com/DanSheps/netbox-routing) - Plugin for managing routing (Static routing only currently).
