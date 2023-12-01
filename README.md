@@ -82,7 +82,7 @@ A curated list of awesome resources related to NetBox!
 - [k01ek/netbox-qrcode](https://github.com/k01ek/netbox-qrcode) - Plugin generating QR codes for objects: Rack, Device, Cable.
 - [kkthxbye-code/netbox-old-search](https://github.com/kkthxbye-code/netbox-old-search) - Brings back the old global search method.
 - [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - Create topology views/maps from your devices in NetBox.
-- [miaow2/netbox-config-diff](https://github.com/miaow2/netbox-config-diff) - Plugin for rendering diff between the intended device configuration and actual.
+- [miaow2/netbox-config-diff](https://github.com/miaow2/netbox-config-diff) - Push rendered configs from NetBox to devices and show diff between the intended device config and actual.
 - [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get power distribution unit (PDU) Information.
 - [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices.
 - [Onemind-Services-LLC/netbox-metatype-importer](https://github.com/Onemind-Services-LLC/netbox-metatype-importer) - Easy import Device and Module types from GitHub repository.
