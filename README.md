@@ -140,6 +140,7 @@ A curated list of awesome resources related to NetBox!
 - [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) - Python API client library.
 - [ninech/netbox-client-ruby](https://github.com/ninech/netbox-client-ruby) - Ruby API client library (NetBox v2).
 - [timeforplanb123/anac](https://github.com/timeforplanb123/anac) - Python Async NetBox API Client, based on httpx and pydantic.
+- [TheRealNOIG/rust-netbox-api](https://github.com/TheRealNOIG/rust-netbox-api) - Rust API client library.
 
 ## Terraform
 
