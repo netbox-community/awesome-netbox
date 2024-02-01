@@ -130,6 +130,7 @@ A curated list of awesome resources related to NetBox!
 - [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) - Sync objects from VMware or redfish sources to NetBox.
 - [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) - Inventory synchronization tool between Netbox and Netshot.
 - [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix.
+- [v0tti/netbox-powerdns-sync](https://github.com/v0tti/netbox-powerdns-sync) - Python script to synchronize NetBox DNS names, device names and VM names as DNS records to PowerDNS.
 
 ## SDKs
 
