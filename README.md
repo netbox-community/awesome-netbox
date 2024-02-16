@@ -99,6 +99,7 @@ A curated list of awesome resources related to NetBox!
 
 ### Integrations
 - [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox.
+- [SaaShup/netbox-docker-plugin](https://github.com/SaaShup/netbox-docker-plugin) - Netbox Plugin to manage docker with style.
 - [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox.
 - [robertcsapo/ciscodnacnetbox](https://github.com/robertcsapo/ciscodnacnetbox) - Cisco DNA Center Integration with NetBox.
 - [wvandeun/nornir_netbox](https://github.com/wvandeun/nornir_netbox) - NetBox plugin for Nornir.
