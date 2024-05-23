@@ -29,9 +29,6 @@ A curated list of awesome resources related to NetBox!
 - [Featured (new releases)](#featured-new-releases)
 - [Official Docs & Quickstarts](#official-docs--quickstarts)
 - [Plugins](#plugins)
-  - [Authentication](#authentication)
-  - [General](#general)
-  - [Integrations](#integrations)
 - [Ansible](#ansible)
 - [Deployment](#deployment)
 - [Utilities](#utilities)
@@ -61,48 +58,7 @@ A curated list of awesome resources related to NetBox!
 
 ## Plugins
 
-### Authentication
-- [jeremyschulman/netbox-plugin-auth-saml2](https://github.com/jeremyschulman/netbox-plugin-auth-saml2) - Netbox Plugin for SSO using SAML2.
-
-### General
-- [alsigna/netbox-software-manager](https://github.com/alsigna/netbox-software-manager) - Plugin to deal with Cisco IOS & XE software.
-- [amyasnikov/validity](https://github.com/amyasnikov/validity) - Plugin for writing configuration compliance checks.
-- [artyomovs/netbox-plugin-config-officer](https://github.com/artyomovs/netbox-plugin-config-officer) - A plugin for NetBox to work with running-configuration of Cisco devices.
-- [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data.
-- [DanSheps/netbox-config-backup](https://github.com/DanSheps/netbox-config-backup) - Plugin to backup configuration of devices.
-- [DanSheps/netbox-lifecycle](https://github.com/DanSheps/netbox-lifecycle) - Plugin for managing Hardware EOS/EOL and Support Contracts.
-- [DanSheps/netbox-routing](https://github.com/DanSheps/netbox-routing) - Plugin for managing routing (Static routing only currently).
-- [drygdryg/netbox-plugin-interface-sync](https://github.com/drygdryg/netbox-plugin-interface-sync) - Compare and synchronize interfaces between devices and device types.
-- [ffddorf/netbox-vault-secrets](https://github.com/ffddorf/netbox-vault-secrets) - Hashicorp Vault Plugin for Netbox.
-- [FlxPeters/netbox-plugin-prometheus-sd](https://github.com/FlxPeters/netbox-plugin-prometheus-sd) - Provide Prometheus compatible API Endpoint with data from Netbox.
-- [gardunha/netbox-routeros](https://github.com/gardunha/netbox-routeros) - Netbox plugin for auto-configuring Mikrotik RouterOS devices.
-- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A Topology visualization plugin.
-- [iDebugAll/phonebox_plugin](https://github.com/iDebugAll/phonebox_plugin) - A Telephone Number Management Plugin for Netbox and more.
-- [k01ek/netbox-bgp](https://github.com/k01ek/netbox-bgp) - Plugin for BGP related objects documentation.
-- [k01ek/netbox-qrcode](https://github.com/k01ek/netbox-qrcode) - Plugin generating QR codes for objects: Rack, Device, Cable.
-- [kkthxbye-code/netbox-old-search](https://github.com/kkthxbye-code/netbox-old-search) - Brings back the old global search method.
-- [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - Create topology views/maps from your devices in NetBox.
-- [miaow2/netbox-config-diff](https://github.com/miaow2/netbox-config-diff) - Push rendered configs from NetBox to devices and show diff between the intended device config and actual.
-- [minitriga/axians-netbox-plugin-pdu](https://github.com/minitriga/axians-netbox-plugin-pdu) - Plugin to get power distribution unit (PDU) Information.
-- [networktocode/ntc-netbox-plugin-onboarding](https://github.com/networktocode/ntc-netbox-plugin-onboarding) - Plugin to easily onboard new devices.
-- [Onemind-Services-LLC/netbox-metatype-importer](https://github.com/Onemind-Services-LLC/netbox-metatype-importer) - Easy import Device and Module types from GitHub repository.
-- [Onemind-Services-LLC/netbox-secrets](https://github.com/Onemind-Services-LLC/netbox-secrets) - A Secret store for NetBox.
-- [OpenSource-THG/netbox-vrf-context](https://github.com/OpenSource-THG/netbox-vrf-context) - Plugin for modeling VRF Contexts.
-- [osism/netbox-plugin-osism](https://github.com/osism/netbox-plugin-osism) - Plugin for a better OSISM integration.
-- [peteeckel/netbox-plugin-dns](https://github.com/peteeckel/netbox-plugin-dns) - Plugin for managing DNS data (maintained fork of netbox-dns).
-- [PieterL75/netbox_ipcalculator](https://github.com/PieterL75/netbox_ipcalculator) - IP Calculator plugin for Netbox.
-- [renatoalmeidaoliveira/nbservice](https://github.com/renatoalmeidaoliveira/nbservice) - Plugin for ITSM service mapping.
-- [ryanmerolle/netbox-acls](https://github.com/ryanmerolle/netbox-acls) - Plugin for Access List management.
-- [Solcon/netbox-gitlab](https://github.com/Solcon/netbox-gitlab) - NetBox GitLab export plugin.
-- [tobiasge/netbox-initializers](https://github.com/tobiasge/netbox-initializers) - Plugin to load predefined data into Netbox.
-- [vapor-ware/netbox-virtual-circuit-plugin](https://github.com/vapor-ware/netbox-virtual-circuit-plugin) - Plugin for NetBox that Supports Virtual Circuit management.
-
-### Integrations
-- [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox.
-- [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A CoreDNS plugin to get dns records from NetBox.
-- [robertcsapo/ciscodnacnetbox](https://github.com/robertcsapo/ciscodnacnetbox) - Cisco DNA Center Integration with NetBox.
-- [wvandeun/nornir_netbox](https://github.com/wvandeun/nornir_netbox) - NetBox plugin for Nornir.
-- [netreplica/nrx](https://github.com/netreplica/nrx?source=awesome-netbox) - Netreplica `nrx` topology and configuration exporter for network emulation labs: Containerlab, Cisco Modeling Labs.
+- [netboxlabs.com/netbox-plugins/](https://netboxlabs.com/netbox-plugins/) - NetBox Community Plugins
 
 ## Ansible
 
