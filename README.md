@@ -51,7 +51,7 @@ A curated list of awesome resources related to NetBox!
 ## Official Docs & Quickstarts
 
 <!--lint disable double-link-->
-- 📖 [NetBox Documentation](https://docs.netbox.dev/en/stable/) - Official NetBox Documentation.
+- 📖 [NetBox Documentation](https://netboxlabs.com/docs/) - Official NetBox Documentation.
 - 🔧 [NetBox Demo Instance](https://demo.netbox.dev/) - Demo instance of NetBox (restarted daily).
 - 📖 [NetBox Plugin Tutorial](https://github.com/netbox-community/netbox-plugin-tutorial) - NetBox Plugin Development Tutorial.
 <!--lint enable double-link-->
@@ -68,7 +68,7 @@ A curated list of awesome resources related to NetBox!
 
 ## Deployment
 
-- [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox.
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - Helm Chart for NetBox.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - Docker Image of NetBox.
 
 ## Utilities
