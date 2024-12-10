@@ -70,6 +70,7 @@ A curated list of awesome resources related to NetBox!
 
 - [bootc/netbox-chart](https://github.com/bootc/netbox-chart) - A Helm chart for NetBox.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - Docker Image of NetBox.
+- [netbox-community/netbox-operator](https://github.com/netbox-community/netbox-operator) - A Kubernetes operator to manage NetBox resources.
 
 ## Utilities
 
