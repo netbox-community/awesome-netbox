@@ -80,6 +80,7 @@ A curated list of awesome resources related to NetBox!
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions.
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 - [netreplica/graphite](https://github.com/netreplica/graphite?source=awesome-netbox) - Standalone topology visualizer Netreplica `graphite`.
+- [NCCloud/netbox-resources-operator](https://github.com/NCCloud/netbox-resources-operator) - A Kubernetes operator to manage NetBox resources.
 
 ## Synchronization
 
