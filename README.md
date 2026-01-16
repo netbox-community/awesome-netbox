@@ -87,6 +87,7 @@ A curated list of awesome resources related to NetBox!
 - [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) - Sync objects from VMware or redfish sources to NetBox.
 - [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) - Inventory synchronization tool between Netbox and Netshot.
 - [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix.
+- [sol1/icingaweb2-module-netbox](https://github.com/sol1/icingaweb2-module-netbox) - Icingaweb2 module to syncronise Netbox objects Icinga Director.
 
 ## SDKs
 
