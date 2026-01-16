@@ -73,6 +73,7 @@ A curated list of awesome resources related to NetBox!
 
 ## Utilities
 
+- [netbox2monit](https://codeberg.org/thomas-mc-work/netbox2monit) - Creates a [configuration file](https://mmonit.com/monit/documentation/monit.html) for [monit](https://mmonit.com/monit/) based on the machines defined in a Netbox instance.
 - [den-it/ntmap](https://github.com/den-it/ntmap) - Network topology map using Netbox as a data source.
 - [kosimovsky/nbcli](https://github.com/kosimovsky/nbcli) - CLI tool for Netbox API.
 - [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) - A scanner util for NetBox.
