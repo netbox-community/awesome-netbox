@@ -82,6 +82,7 @@ A curated list of awesome resources related to NetBox!
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 - [netreplica/graphite](https://github.com/netreplica/graphite?source=awesome-netbox) - Standalone topology visualizer Netreplica `graphite`.
 - [NCCloud/netbox-resources-operator](https://github.com/NCCloud/netbox-resources-operator) - A Kubernetes operator to manage NetBox resources.
+- [Hebbian-Robotics/nbx](https://github.com/Hebbian-Robotics/nbx) - NetBox CLI for humans and AI agents built with Rust.
 
 ## Synchronization
 
