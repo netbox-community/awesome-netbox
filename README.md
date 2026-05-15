@@ -59,6 +59,7 @@ A curated list of awesome resources related to NetBox!
 ## Plugins
 
 - [netboxlabs.com/netbox-plugins/](https://netboxlabs.com/netbox-plugins/) - NetBox Community Plugins
+- [netbox-osp](https://github.com/iamjohnnymac/netbox-osp) - Outside-plant + inter-rack fibre management: OSP cables with TIA-598-C colour coding, splice closures with measured loss, MPO/MTP trunks with one-click harness deploy, end-to-end visual core tracer with loss budget, and a Leaflet plant map with offline MBTiles fallback. No PostGIS required.
 
 ## Ansible
 
