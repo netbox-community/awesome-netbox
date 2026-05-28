@@ -93,6 +93,7 @@ A curated list of awesome resources related to NetBox!
 ## SDKs
 
 - [benclaussen/NetboxPS](https://github.com/benclaussen/NetboxPS) - Powershell module for Netbox.
+  - Deprecated. See maintained fork: [ctrl-alt-automate/PowerNetbox](https://github.com/ctrl-alt-automate/PowerNetbox)
 - [hexa2k9/netbox-php](https://github.com/hexa2k9/netbox-php) - PHP API client library.
 - [KashinYaS/NetBoxPowerShell](https://github.com/KashinYaS/NetBoxPowerShell) - PowerShell wrapper to NetBox API.
 - [netbox-community/go-netbox](https://github.com/netbox-community/go-netbox) - Go API client library.
@@ -117,7 +118,7 @@ A curated list of awesome resources related to NetBox!
 ### Blogs
 
 - [Integrating Okta SSO with NetBox](https://www.oasys.net/posts/okta-sso-with-netbox/) - Instructions for configuring NetBox and Okta for native SSO authentication.
-- [Netbox Active Directory/LDAP Integration](https://www.thierolf.org/blog/2021/netbox-active-directoryldap-integration/) - How to setup Netbox with Active Directory as backend for users and groups.
+- [Netbox Active Directory/LDAP Integration](https://web.archive.org/web/20240114143516/https://www.thierolf.org/blog/2021/netbox-active-directoryldap-integration/) - How to setup Netbox with Active Directory as backend for users and groups.
 - [NetBox NAPALM automation with bastion host](https://www.oasys.net/posts/netbox-napalm-automation-with-bastion-host/) - Configuring the NAPALM integration to use a SSH proxy.
 - [NetBox: How to run it on your Synology](https://kevenaar.name/netbox-how-to-run-it-on-your-synology/) - Installing Netbox on your Synology NAS.
 
