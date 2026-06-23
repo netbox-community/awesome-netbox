@@ -82,6 +82,7 @@ A curated list of awesome resources related to NetBox!
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 - [netreplica/graphite](https://github.com/netreplica/graphite?source=awesome-netbox) - Standalone topology visualizer Netreplica `graphite`.
 - [NCCloud/netbox-resources-operator](https://github.com/NCCloud/netbox-resources-operator) - A Kubernetes operator to manage NetBox resources.
+- [lquastana/netbox-it-landscape](https://github.com/lquastana/netbox-it-landscape) - NetBox plugin for application and business landscape cartography: domain/process/application views, flow maps, KPIs, multi-site comparison and a cascade impact simulator.
 
 ## Synchronization
 
