@@ -89,6 +89,7 @@ A curated list of awesome resources related to NetBox!
 - [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) - Inventory synchronization tool between Netbox and Netshot.
 - [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) - Python script to syncronise Netbox devices to Zabbix.
 - [sol1/icingaweb2-module-netbox](https://github.com/sol1/icingaweb2-module-netbox) - Icingaweb2 module to syncronise Netbox objects Icinga Director.
+- [edurbs/netbox-inventree-sync](https://github.com/edurbs/netbox-inventree-sync) - NetBox plugin that keeps InvenTree inventory in sync via its REST API.
 
 ## SDKs
 
